@@ -1,0 +1,1 @@
+https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#intel-bios-settings
