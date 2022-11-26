@@ -51,7 +51,7 @@
                 "guessed": 3,
                 "index": 1,
                 "name": "Port 1",
-                "selected": false,
+                "selected": true,
                 "selection_index": 1,
                 "status": "NoDeviceConnected",
                 "type": null,
@@ -83,7 +83,7 @@
                 "guessed": 3,
                 "index": 2,
                 "name": "Port 2",
-                "selected": false,
+                "selected": true,
                 "selection_index": 2,
                 "status": "NoDeviceConnected",
                 "type": null,
@@ -396,7 +396,7 @@
                 "guessed": 3,
                 "index": 17,
                 "name": "Port 17",
-                "selected": false,
+                "selected": true,
                 "selection_index": 17,
                 "status": "NoDeviceConnected",
                 "type": null,
@@ -415,7 +415,7 @@
                 "guessed": 3,
                 "index": 18,
                 "name": "Port 18",
-                "selected": false,
+                "selected": true,
                 "selection_index": 18,
                 "status": "NoDeviceConnected",
                 "type": null,
@@ -537,6 +537,6 @@
                 "user_connectable": false
             }
         ],
-        "selected_count": 11
+        "selected_count": 15
     }
 ]
